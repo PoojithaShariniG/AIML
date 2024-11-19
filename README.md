@@ -8,3 +8,4 @@ Lab 7 : https://github.com/PoojithaShariniG/AIML/blob/c0570280cbf3c7d6dfc053fafe
 LAB 8 : https://github.com/PoojithaShariniG/AIML/blob/60ecc42adc1c87e18590c179a49e68b4f287e36a/LAB_8.ipynb
 LAB 9 : https://github.com/PoojithaShariniG/AIML/blob/af8f5e28ac8cf0c888ba3deaeea295ea9a339f48/LAB_9.ipynb
 LAB 10: https://github.com/PoojithaShariniG/AIML/blob/875b4d73f416d287f921df487b311b472df3f6a0/LAB_10.ipynb
+LAB INTERNAL : https://github.com/PoojithaShariniG/AIML/blob/458e0540343b75593391ebcbb29508344a665412/Lab_internal_of_set_1_.ipynb
